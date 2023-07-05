@@ -1,7 +1,6 @@
-
 <div id="badges" align="center">
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="160"/>
 </div>
  <div id="badges">
   <a href="https://github.com/KristinaPM">
